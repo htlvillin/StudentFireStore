@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqlLiteStudentExample</string>
+    <string name="empty_list_text">No students available!</string>
+    <string name="add_record">Add Record!</string>
+    <string name="LastName">Lastname</string>
+    <string name="FirstName">Firstname</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+</resources>
